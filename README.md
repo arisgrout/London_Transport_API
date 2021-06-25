@@ -1,4 +1,4 @@
-# The Amazing Race - London Edition!
+# The Amazing Race - London Edition
 ## Objective
 
 Use the [Transport of London](https://api.tfl.gov.uk/) API to plan an Amazing Race - London edition.
